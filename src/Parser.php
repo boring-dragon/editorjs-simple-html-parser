@@ -34,7 +34,6 @@ class Parser
      * @var array
      */
     public $customImgAttrs = [
-        'border border-alhi-200',
     ];
 
     public function __construct(string $data)
